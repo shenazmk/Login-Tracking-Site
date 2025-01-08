@@ -2,9 +2,9 @@
 	$db_host = "localhost";
 
 	// TODO 3: Update db.php with your MySQL account details
-	$db_user = "smk868";  
-	$db_pwd = "CS215_MySQL_24!"; 
-	$db_db = "smk868";
+	$db_user = "";  
+	$db_pwd = ""; 
+	$db_db = "";
 
 	$charset = 'utf8mb4';
 	$attr = "mysql:host=$db_host;dbname=$db_db;charset=$charset";
